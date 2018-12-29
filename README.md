@@ -2,7 +2,7 @@
 ---
 ## 524249032@qq.com
 ---
-[GitHnb](pswfy.github.io)
+[GitHnb](https://github.com/pswfy/pswfy.github.io)
 ---
 - 2016
 + 2017
