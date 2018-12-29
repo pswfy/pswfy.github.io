@@ -1,6 +1,6 @@
 # pswfy.github.io
 ## 524249032@qq.com
-[GitHnb](https://github.com/pswfy/pswfy.github.io)
++ [GitHnb](https://github.com/pswfy/pswfy.github.io)
 
 
 
